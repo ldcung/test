@@ -2098,7 +2098,7 @@ void uart_init (void)
 *参  数: 无
 *返回值: 无
 *****************************************************************/
-void hex_to_str (uint16_t *pbDest, uint8_t *pbSrc, int nLen)
+void hex_to_str (uint8_t *pbDest, uint8_t *pbSrc, int nLen)
 {
     char ddl, ddh;
     int i;
