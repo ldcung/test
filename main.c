@@ -642,6 +642,7 @@ void advertising_para_init(void)
     services_init();
     advertising_init();
     conn_params_init();
+	aaaaaaaa
 }
 
 /**@brief Function for placing the application in low power state while waiting for events.
